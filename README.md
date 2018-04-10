@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Greetings!
 
 This homework is designed to force you to exercise your knowledge of the Kotlin programming language. This homework does not involve Android in any way.
@@ -62,3 +63,6 @@ In the fourth section, create a class called `Command` that can be used as a fun
 As with the previous assignment, 5 points if all the tests pass, and 0 points if any of them fail. Where this README appears to disagree with the code, follow the code, but do not change the tests.
 
 
+=======
+# complexkotlin
+>>>>>>> d504d6a47e9842a1f4a7ca6cfebc3503ece5343d
